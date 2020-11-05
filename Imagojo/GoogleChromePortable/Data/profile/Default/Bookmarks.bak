@@ -1,0 +1,34 @@
+{
+   "checksum": "fb1af481c866cd2899480ed26ce3b4c4",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "12955230055758786",
+            "id": "3",
+            "name": "http://localhost/query.htm no est\u00E1 disponible.",
+            "type": "url",
+            "url": "http://localhost/query.htm"
+         }, {
+            "date_added": "12956978234002204",
+            "id": "4",
+            "name": "Dcm4Chee",
+            "type": "url",
+            "url": "http://localhost:8080/dcm4chee-web/"
+         } ],
+         "date_added": "0",
+         "date_modified": "12956978234002204",
+         "id": "1",
+         "name": "Barra de marcadores",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "0",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Otros marcadores",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

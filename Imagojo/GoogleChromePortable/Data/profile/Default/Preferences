@@ -1,0 +1,327 @@
+{
+   "alternate_error_pages": {
+      "enabled": false
+   },
+   "apps_promo_counter": 11,
+   "autofill": {
+      "enabled": false
+   },
+   "browser": {
+      "check_default_browser": false,
+      "clear_data": {
+         "form_data": true,
+         "passwords": true
+      },
+      "ntp": {
+         "theme_promo_remaining": -2
+      },
+      "show_home_button": true,
+      "window_placement": {
+         "bottom": 560,
+         "left": 0,
+         "maximized": true,
+         "right": 800,
+         "top": 0,
+         "work_area_bottom": 600,
+         "work_area_left": 0,
+         "work_area_right": 1024,
+         "work_area_top": 0
+      }
+   },
+   "cloud_print": {
+      "email": ""
+   },
+   "countryid_at_install": 21843,
+   "default_search_provider": {
+      "enabled": true,
+      "encodings": "UTF-8",
+      "icon_url": "http://www.google.com/favicon.ico",
+      "id": "2",
+      "instant_url": "{google:baseURL}webhp?{google:RLZ}sourceid=chrome-instant&ie={inputEncoding}&ion=1{searchTerms}&nord=1",
+      "keyword": "google.com",
+      "name": "Google",
+      "prepopulate_id": "1",
+      "search_url": "{google:baseURL}search?{google:RLZ}{google:acceptedSuggestion}{google:originalQueryForSuggestion}sourceid=chrome&ie={inputEncoding}&q={searchTerms}",
+      "suggest_url": "{google:baseSuggestURL}search?client=chrome&hl={language}&q={searchTerms}"
+   },
+   "devtools": {
+      "split_location": 480
+   },
+   "dns_prefetching": {
+      "enabled": true,
+      "host_referral_list": [ 2, [ "http://localhost/", [ "http://localhost/", 0.6413263022576248 ] ], [ "http://localhost:8080/", [ "http://localhost:8080/", 1.2127685663440548 ] ], [ "http://www.synedra.com/", [ "http://www.google-analytics.com/", 0.3759737005086134, "http://www.synedra.com/", 1.3299368212021094, "http://www.youtube.com/", 0.3282755444739386 ] ], [ "http://www.youtube.com/", [ "http://gdata.youtube.com/", 0.3869913440744119, "http://i.ytimg.com/", 0.3869913440744119, "http://s.youtube.com/", 0.3378954272888522, "http://s.ytimg.com/", 0.3378954272888522, "http://v11.lscache5.c.youtube.com/", 0.3378954272888522, "http://v11.nonxt5.c.youtube.com/", 0.3378954272888522, "http://v14.lscache7.c.youtube.com/", 0.3378954272888522, "http://v14.nonxt7.c.youtube.com/", 0.3378954272888522, "http://www.youtube.com/", 0.534279094431091 ] ] ],
+      "startup_list": [ 1, "http://localhost/", "http://localhost:8080/" ]
+   },
+   "download": {
+      "default_directory": "C:\\ImagojoPro",
+      "directory_upgrade": true,
+      "extensions_to_open": "",
+      "prompt_for_download": true
+   },
+   "extensions": {
+      "autoupdate": {
+         "last_check": "12963462977522000",
+         "next_check": "12963505363328625"
+      },
+      "blacklistupdate": {
+         "lastpingday": "12963394758585000",
+         "version": "0.0.0.6"
+      },
+      "chrome_url_overrides": {
+         "bookmarks": [ "chrome-extension://eemcgdkfndhakfknompkggombfjjjeno/main.html" ]
+      },
+      "settings": {
+         "hpibmhghjndideebpackbdlpncgkcppp": {
+            "blacklist": true
+         },
+         "lncjcfkpannmofmpgdfoonkniofdnaba": {
+            "blacklist": true
+         },
+         "pbglijbamgmlcpnnpbfjkbdeheejjloj": {
+            "blacklist": true
+         }
+      },
+      "theme": {
+         "id": ""
+      }
+   },
+   "geolocation": {
+      "content_settings": {
+         "chrome-extension://ihdkejbciahopmbagpnjmmkkdpfpaaak/": {
+            "chrome-extension://ihdkejbciahopmbagpnjmmkkdpfpaaak/": 1
+         }
+      }
+   },
+   "google": {
+      "services": {
+         "username": ""
+      }
+   },
+   "homepage": "http://localhost:8080/dcm4chee-web",
+   "homepage_is_newtabpage": false,
+   "instant": {
+      "confirm_dialog_shown": true,
+      "enabled": false,
+      "enabled_once": true,
+      "enabled_time": "12952228139014375"
+   },
+   "ntp": {
+      "alt_logo_end": 0.0,
+      "alt_logo_resource_server": "https://www.google.com/support/chrome/bin/topic/30248/inproduct",
+      "alt_logo_start": 0.0,
+      "most_visited_blacklist": {
+         "00d7b9678e03989130a0add18a1e826b": null,
+         "4bc09adbbaef0401b74b3ec2babe84bf": null,
+         "8615f217396c18aa966a68f9318d487b": null,
+         "af4775052a19379b5cfb577f90adaf0d": null,
+         "b17945b355fa98cf1d01f2038fcb185d": null,
+         "b72eea25d53d6658d8db78f845e6082a": null,
+         "c9db569cb388e160e4b86ca1ddff84d7": null,
+         "cec8d414d7759813c8fb1f112f751381": null,
+         "dfac2ac2f8102bbfbd4ef18a247d74cb": null,
+         "e4b271246b04f4a0e57b8d4ce96a9edd": null,
+         "fc6d6954a1fc699958d2f150325e0041": null
+      },
+      "pref_version": 3,
+      "promo_build": 0,
+      "promo_closed": false,
+      "promo_end": 1299830340.0,
+      "promo_group": 5,
+      "promo_group_timeslice": 0,
+      "promo_line": "\u00BFUtilizas Google Chrome en otro ordenador? Ll\u00E9vate los marcadores contigo.",
+      "promo_resource_cache_update": "1318988895.92325",
+      "promo_start": 1299830280.0,
+      "shown_sections": 1,
+      "web_resource_cache_update": "1289679884.902772"
+   },
+   "plugins": {
+      "enabled_internal_pdf3": true,
+      "last_internal_directory": "C:\\Imagojo\\GoogleChromePortable\\App\\Chrome-bin\\12.0.742.91",
+      "plugins_list": [ {
+         "enabled": true,
+         "name": "Shockwave Flash",
+         "path": "C:\\Imagojo\\GoogleChromePortable\\App\\Chrome-bin\\12.0.742.91\\gcswf32.dll",
+         "version": "10,2,154,28"
+      }, {
+         "enabled": true,
+         "name": "Shockwave Flash",
+         "path": "C:\\WINDOWS\\system32\\Macromed\\Flash\\NPSWF32.dll",
+         "version": "10,3,181,22"
+      }, {
+         "enabled": true,
+         "name": "Silverlight Plug-In",
+         "path": "C:\\Archivos de programa\\Microsoft Silverlight\\4.0.60310.0\\npctrl.dll",
+         "version": "4.0.60310.0"
+      }, {
+         "enabled": true,
+         "name": "Shockwave for Director",
+         "path": "C:\\WINDOWS\\system32\\Adobe\\Director\\np32dsw.dll",
+         "version": "11.0r429"
+      }, {
+         "enabled": true,
+         "name": "RealPlayer Version Plugin",
+         "path": "C:\\Program Files\\Real\\RealPlayer\\Netscape6\\nprpjplug.dll",
+         "version": "6.0.12.46"
+      }, {
+         "enabled": true,
+         "name": "Windows Media Player Plug-in Dynamic Link Library",
+         "path": "C:\\Archivos de programa\\Windows Media Player\\npdsplay.dll",
+         "version": "3.0.2.629"
+      }, {
+         "enabled": true,
+         "name": "Microsoft Office Live Plug-in for Firefox",
+         "path": "C:\\Archivos de programa\\Microsoft\\Office Live\\npOLW.dll",
+         "version": "2.0.2313.0"
+      }, {
+         "enabled": true,
+         "name": "Chrome PDF Viewer",
+         "path": "C:\\Imagojo\\GoogleChromePortable\\App\\Chrome-bin\\12.0.742.91\\pdf.dll",
+         "version": ""
+      }, {
+         "enabled": false,
+         "name": "Chrome NaCl",
+         "path": "C:\\Imagojo\\GoogleChromePortable\\App\\Chrome-bin\\12.0.742.91\\ppGoogleNaClPluginChrome.dll",
+         "version": ""
+      }, {
+         "enabled": true,
+         "name": "Google Gears 0.5.33.0",
+         "path": "C:\\Imagojo\\GoogleChromePortable\\App\\Chrome-bin\\12.0.742.91\\gears.dll",
+         "version": "0.5.33.0"
+      }, {
+         "enabled": false,
+         "name": "Adobe Acrobat",
+         "path": "C:\\Archivos de programa\\Adobe\\Acrobat 6.0\\Acrobat\\Browser\\nppdf32.dll",
+         "version": "6.0.0.2003051500"
+      }, {
+         "enabled": true,
+         "name": "Foxit Reader Plugin for Mozilla",
+         "path": "C:\\Archivos de programa\\Mozilla Firefox\\plugins\\npFoxitReaderPlugin.dll",
+         "version": "1, 0, 1, 1117"
+      }, {
+         "enabled": true,
+         "name": "Microsoft\u00AE DRM",
+         "path": "C:\\Archivos de programa\\Windows Media Player\\npdrmv2.dll",
+         "version": "9.00.00.4503"
+      }, {
+         "enabled": true,
+         "name": "Microsoft\u00AE DRM",
+         "path": "C:\\Archivos de programa\\Windows Media Player\\npwmsdrm.dll",
+         "version": "9.00.00.4503"
+      }, {
+         "enabled": true,
+         "name": "Panda ActiveScan 2.0",
+         "path": "C:\\Archivos de programa\\Panda Security\\ActiveScan 2.0\\npwrapper.dll",
+         "version": "1, 3, 3, 0"
+      }, {
+         "enabled": true,
+         "name": "Unity Player",
+         "path": "C:\\Archivos de programa\\Unity\\WebPlayer\\loader\\npUnity3D32.dll",
+         "version": "2.5.1.24931"
+      }, {
+         "enabled": true,
+         "name": "Windows Live\u00AE Photo Gallery",
+         "path": "C:\\Archivos de programa\\Windows Live\\Photo Gallery\\NPWLPG.dll",
+         "version": "14.0.8117.0416_ship.wlx.w3m3 (ship)"
+      }, {
+         "enabled": true,
+         "name": "Zylom Plugin",
+         "path": "C:\\Documents and Settings\\All Users\\Datos de programa\\Zylom\\ZylomGamesPlayer\\npzylomgamesplayer.dll",
+         "version": "2, 0, 0, 0"
+      }, {
+         "enabled": true,
+         "name": "Windows Presentation Foundation",
+         "path": "c:\\WINDOWS\\Microsoft.NET\\Framework\\v3.5\\Windows Presentation Foundation\\NPWPF.dll",
+         "version": "3.5.30729.1 built by: SP"
+      }, {
+         "enabled": true,
+         "name": "Default Plug-in",
+         "path": "default_plugin",
+         "version": "1"
+      }, {
+         "enabled": true,
+         "name": "Flash"
+      }, {
+         "enabled": true,
+         "name": "Silverlight"
+      }, {
+         "enabled": true,
+         "name": "Shockwave"
+      }, {
+         "enabled": true,
+         "name": "RealPlayer"
+      }, {
+         "enabled": true,
+         "name": "Windows Media Player"
+      }, {
+         "enabled": true,
+         "name": "Microsoft Office"
+      }, {
+         "enabled": true,
+         "name": "Chrome PDF Viewer"
+      }, {
+         "enabled": false,
+         "name": "Chrome NaCl"
+      }, {
+         "enabled": true,
+         "name": "Google Gears 0.5.33.0"
+      }, {
+         "enabled": false,
+         "name": "Adobe Acrobat"
+      }, {
+         "enabled": true,
+         "name": "Foxit Reader Plugin for Mozilla"
+      }, {
+         "enabled": true,
+         "name": "Microsoft\u00AE DRM"
+      }, {
+         "enabled": true,
+         "name": "Panda ActiveScan 2.0"
+      }, {
+         "enabled": true,
+         "name": "Unity Player"
+      }, {
+         "enabled": true,
+         "name": "Windows Live\u00AE Photo Gallery"
+      }, {
+         "enabled": true,
+         "name": "Zylom Plugin"
+      }, {
+         "enabled": true,
+         "name": "Windows Presentation Foundation"
+      }, {
+         "enabled": true,
+         "name": "Default Plug-in"
+      } ]
+   },
+   "profile": {
+      "content_settings": {
+         "pref_version": 1
+      },
+      "exited_cleanly": true,
+      "password_manager_enabled": false,
+      "per_host_zoom_levels": {
+         "articulo.mercadolibre.com.uy": 1.0,
+         "www.google.com": 3.0
+      }
+   },
+   "search": {
+      "suggest_enabled": false
+   },
+   "session": {
+      "restore_on_startup": 4,
+      "urls_to_restore_on_startup": [ "http://localhost:8080/dcm4chee-web" ]
+   },
+   "tabs": {
+      "use_vertical_tabs": false
+   },
+   "translate": {
+      "enabled": false
+   },
+   "translate_accepted_count": {
+      "en": 0
+   },
+   "translate_denied_count": {
+      "en": 8
+   },
+   "translate_site_blacklist": [ "localhost" ]
+}

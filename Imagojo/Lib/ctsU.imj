@@ -1,0 +1,45 @@
+; Proyecto de fin de carrera: IMAGOJO
+; Tutor: Franco Simini
+; Programa IMAGOJO
+; AutoIt 3.3.61
+; Creado :29/02/12   Modificado: 29/02/12 
+; Autores: Rodrigo Vlaeminck y Alvaro Prieto
+;*********************************
+Códigos de autentificación Usuarios, NetbookAp:
+[28893996]
+name=Dra. María del Rosario Saldaña
+key=d531a52466b721d3981c034530f961a7
+[26173596]
+name=Dra. Andrea Fernández
+key=e488fac7608b3904a5c540232c93b3a1
+[15406055]
+name=Prof. Dr. Marcelo Gallareta
+key=347fbe777f999a5279f10c002b853e26
+[39941621]
+name=Rodrigo Vlaeminck
+key=5fa5f977835606ca4437912d6da27e44
+[15125556]
+name=Alvaro Prieto
+key=2a371fe9d577d4aefc7783f20c81e93b
+[admin]
+name=Administrador IMAGOJO
+key=c6d8dabdd0396f0db356921eb39037e5
+[17685437]
+name=Prof. Adjta. Dra. Rosario Varallo
+key=30325744e9d8803997a7cafc7aa000cd
+[26844482]
+name=Dr. Rodolfo Rivas
+key=ea98a2bfe5caad2ba51686ceae3afe7a
+[42168636]
+name=Macarena Casaballe
+key=f32f9eeca315be734f6041bb1bc6a94b
+[44134702]
+name=Pedro Echagüe
+key=f7d6cf22f03d9bffa33ea3d371ba47b2
+[33142639]
+name=Silvana De León
+key=fc119d386a4fb4d88a5b910b585c3f84
+[36189814]
+name=Magdalena Fornella
+key=7888e2317ec78ee1fb532ca86b2d3f1e
+

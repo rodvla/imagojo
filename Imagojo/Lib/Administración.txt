@@ -1,0 +1,7 @@
+http://localhost:8080/jmx-console/
+
+http://192.168.1.100:8080/jmx-console/
+
+http://192.168.0.100:8080/jmx-console/
+
+http://localhost:8080/dcm4chee-web/
